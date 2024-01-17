@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Basic_NeuralNet"
+  site-url: "https://fbelinchon.github.io/Basic_NeuralNet"
+  description: "Pruebas"
+  repo-branch: main
+  repo-url: "https://github.com/fbelinchon/Basic_NeuralNet"
